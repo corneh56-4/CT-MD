@@ -1,5 +1,5 @@
 {
-  "name": "KEITH-MD",
+  "name": "CT-MD",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable ",
   "keywords": [
     "bot",
@@ -14,7 +14,7 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Keithkeizzah/KEITH-MD#readme",
+  "website": "https://github.com/Keithkei/KEITH-MD#readme",
   "repository": "https://github.com/Keithkeizzah/KEITH-MD.git",
   "logo": "https://i.imgur.com/dAtHp2k.jpeg",
   "success_url": "/",
